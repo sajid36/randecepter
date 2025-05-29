@@ -17,3 +17,9 @@ Ransomware is a malicious type of malware designed to encrypt files or lock syst
 
 - **Ransom Notes and Instructions**  
   After encryption, ransomware generates ransom notes with instructions for victims. These notes, often displayed as text files or desktop backgrounds, provide details such as the ransom amount, cryptocurrency payment instructions, and deadlines to pressure victims into paying.
+
+
+
+**A detailed representation of TABLE I**
+  
+![image](https://github.com/user-attachments/assets/d110098b-d983-45d1-b02f-e17bf5c5c3b0)
