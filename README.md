@@ -20,6 +20,6 @@ Ransomware is a malicious type of malware designed to encrypt files or lock syst
 
 
 
-**A detailed representation of TABLE I**
+### A detailed representation of TABLE I
   
 ![image](https://github.com/user-attachments/assets/d110098b-d983-45d1-b02f-e17bf5c5c3b0)
